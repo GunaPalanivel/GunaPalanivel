@@ -4,6 +4,9 @@
 
 I'm a 20-year-old developer based in India, and I'm passionate about creating awesome software.
 
+
+- Check out my <a href="http://gunaprofile.pages.dev" target="_blank" rel="noopener noreferrer">website</a> to learn more about me.
+
 - Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
 - Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
