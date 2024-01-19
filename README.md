@@ -1,31 +1,31 @@
 ### Hey, I'm Guna 👋🏽
 
-![Alt Text](./assets/banner.png)
+![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
-I'm a 20-year-old developer based in India, and I'm passionate about .
+I'm a 20-year-old developer based in India, and I'm passionate about creating awesome software.
 
 - Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
-- Stay updated with my journey on [Github](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
+- Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
 
 ## 📦 Toolbox
 
 **Frontend Development:** `HTML5` `CSS3` `JavaScript` `React.js`
 
-**Programming:** `JavaScript` `Python`
+**Programming Languages:** `JavaScript` `Python`
 
 **Version Control:** `Git` `GitLab`
 
-**Databases** `MySQL` `MongoDB`
+**Databases:** `MySQL` `MongoDB`
 
-**Software:** `Visual Studio Code` `MySQL Workbench` `MongoDB Compass` `Git Bash` `Github Desktop`
+**Software:** `Visual Studio Code` `MySQL Workbench` `MongoDB Compass` `Git Bash` `GitHub Desktop`
 
 ## ✨ Fun Facts
 
-- The Pursuit of Happyness is my favorite movie.
-- I love to watch hollywood movies rather than bollywood.
-- I'll gain knowledge from any source, be it a book, a video, or a person.
+- "The Pursuit of Happyness" is my favorite movie.
+- I prefer Hollywood movies over Bollywood.
+- I enjoy gaining knowledge from various sources, be it books, videos, or conversations.
 
 ## 📫 Contact
 
