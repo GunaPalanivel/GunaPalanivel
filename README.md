@@ -4,9 +4,9 @@
 
 I'm a 20-year-old developer based in India, and I'm passionate about .
 
-- Check out my [website](https://gunaprofile.pages.dev/){:target="blank"} to learn more about me.
-- Explore my [Links](https://gunalinks.pages.dev/){:target="blank"} to find me on various platforms.
-- Stay updated with my journey on [Github](https://github.com/GunaPalanivel){:target="blank"} and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/){:target="blank"}.
+- Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
+- Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
+- Stay updated with my journey on [Github](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
 
 ## 📦 Toolbox
@@ -29,4 +29,4 @@ I'm a 20-year-old developer based in India, and I'm passionate about .
 
 ## 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/sandy_sag_){:target="blank"} or [LinkedIn](https://www.linkedin.com/in/guna-palanivel/){:target="blank"}.
+For a quick response, DM me on [Instagram](https://www.instagram.com/sandy_sag_) or [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
