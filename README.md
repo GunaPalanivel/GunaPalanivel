@@ -4,8 +4,8 @@
 
 I'm a 20-year-old developer based in India, and I'm passionate about .
 
-- Check out my [website](gunaprofile.pages.dev) to learn more about me.
-- Explore my [Links](gunalinks.pages.dev) to find me on various platforms.
+- Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
+- Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
 - Stay updated with my journey on [Github](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
 
