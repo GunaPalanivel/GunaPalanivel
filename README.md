@@ -15,7 +15,7 @@ I'm a 20-year-old developer based in India, and I'm passionate about creating aw
 
 **Programming Languages:** `JavaScript` `Python`
 
-**Version Control:** `Git` `GitLab`
+**Version Control:** `Git` `Github`
 
 **Databases:** `MySQL` `MongoDB`
 
