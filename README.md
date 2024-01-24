@@ -2,12 +2,13 @@
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
-I'm a 20-year-old developer based in India, and I'm passionate about creating awesome software.
+I'm a 20-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software 💻.
 
-- Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
-- Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
-- Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
-- Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
+- 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
+- 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
+- 📃 You can view the PDF version of my resume [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
+- 📚 Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
+- ⚙️ Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
 
 ## 📦 Toolbox
 
@@ -23,9 +24,9 @@ I'm a 20-year-old developer based in India, and I'm passionate about creating aw
 
 ## ✨ Fun Facts
 
-- "The Pursuit of Happyness" is my favorite movie.
-- I prefer Hollywood movies over Bollywood.
-- I enjoy gaining knowledge from various sources, be it books, videos, or conversations.
+- 🎬 "The Pursuit of Happyness" is my favorite movie.
+- 🍿 I prefer Hollywood movies over Bollywood.
+- 🧠 I enjoy gaining knowledge from various sources, be it books, videos, or conversations.
 
 ## 📫 Contact
 
