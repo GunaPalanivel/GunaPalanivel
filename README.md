@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there++%F0%9F%91%8B;+I'm+Guna+Palanivel+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there++%F0%9F%91%8B;+I'm+Guna+Palanivel" alt="Typing SVG" /></a>
+
 <hr>
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
