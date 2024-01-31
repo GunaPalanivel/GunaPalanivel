@@ -14,9 +14,9 @@ I'm a 20-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript` `React.js`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript`
 
-**Programming Languages:** `JavaScript` `Python`
+**Programming Languages:** `JavaScript`
 
 **Version Control:** `Git` `Github`
 
