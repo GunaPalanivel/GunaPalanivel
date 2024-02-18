@@ -8,7 +8,7 @@ I'm a 20-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
-- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
+- 📃 View the PDF version of my resume on the drive and navigate through the links [here]().
 - 📚 Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - ⚙️ Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings/blob/main/.vs-code/settings.json) for development optimization.
 
