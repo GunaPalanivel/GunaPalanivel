@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
-I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software 💻.
+I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software.
 
 - 💻 Here's a [JavaScript code](https://github.com/GunaPalanivel/My-README.md-bio-In-Js) snippet that dynamically generates my GitHub README.md content.
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
