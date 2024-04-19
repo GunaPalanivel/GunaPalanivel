@@ -4,6 +4,7 @@
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=GunaPalanivel.GunaPalanivel)
 I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software.
 
 - 🌟 As an [ALPHA member of Microsoft MLSA](https://mvp.microsoft.com/en-US/studentambassadors/profile/e9949081-2982-483b-97a7-c0a8baf88937), driving forward tech innovation.
