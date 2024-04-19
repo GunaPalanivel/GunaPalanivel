@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GunaPalanivel&label=Profile%20views&color=0e75b6&style=flat" alt="GunaPalanivel" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GunaPalanivel&label=Profile%20views&color=0e75b6&style=flat" alt="GunaPalanivel" /> </p> -->
 
 I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software.
 
