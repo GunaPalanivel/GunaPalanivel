@@ -22,7 +22,7 @@ I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 **Programming Languages:** `JavaScript`
 
-**JavaScript Library & Framework** `ReactJS` `Node.js`
+**JavaScript Library & Framework** `ReactJS` `Next.js`
 
 **Backend Development:** `Node.js`
 
