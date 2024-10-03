@@ -18,19 +18,25 @@ I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)`
 
-**Programming Languages:** `JavaScript`
+**Programming Languages:** `JavaScript` `Python` `TypeScript`
 
-**JavaScript Library & Framework** `ReactJS` `Next.js`
+**JavaScript Library & Frameworks:** `React` `Next.js` `AdminJS` `Bootstrap`
 
-**Backend Development:** `Node.js`
+**Backend Development:** `Node.js` `Sequelize`
 
-**Version Control:** `Git` `Github`
+**Version Control:** `Git` `GitHub`
 
-**Databases:** `MySQL` `MongoDB`
+**Databases:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
 
 **Software:** `Visual Studio Code` `MySQL Workbench` `MongoDB Compass` `Git Bash` `GitHub Desktop`
+
+**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
+
+**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
+
+**Tools and Platforms:** `Docker` `CI/CD Pipelines` `REST APIs` `Agile/Scrum`
 
 ## ✨ Fun Facts
 
