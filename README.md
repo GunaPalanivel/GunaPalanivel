@@ -12,7 +12,7 @@ I'm a 21-year-old developer based in India 🇮🇳, and I'm passionate about cr
 - 💻 Here's a [JavaScript code](https://github.com/GunaPalanivel/My-README.md-bio-In-Js) snippet that dynamically generates my GitHub README.md content.
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
-- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1TJzNBipeGbzn_AKUUKwm9pvMEuuPeMfB/view?usp=sharing).
+- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1-YC-PQ138iZ3YtWgRI1FnZu027IXlQnn/view?usp=sharing).
 - 📚 Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - ⚙️ Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings) for development optimization.
 
