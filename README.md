@@ -18,38 +18,27 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## 📦 Toolbox
 
-**Frontend Development:**  
-`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
 
-**Programming Languages:**  
-`TypeScript` `JavaScript` `Python`
+**Programming Languages:** `TypeScript` `JavaScript` `Python`
 
-**JavaScript Libraries & Frameworks:**  
-`React.js` `Next.js` `Angular` `Bootstrap` `Material-UI`
+**JavaScript Libraries & Frameworks:** `React.js` `Next.js` `Angular` `Bootstrap` `Material-UI`
 
-**Backend Development:**  
-`Node.js` `Express.js` `GraphQL`
+**Backend Development:** `Node.js` `Express.js` `GraphQL`
 
-**API Development & Integration:**  
-`REST APIs` `GraphQL` `Postman`
+**API Development & Integration:** `RESTful APIs` `GraphQL` `Postman`
 
-**Version Control & Collaboration:**  
-`Git` `GitHub`
+**Version Control & Collaboration:** `Git` `GitHub`
 
-**Databases & Data Management:**  
-`MySQL` `MongoDB` `PostgreSQL` `Redis`
+**Databases & Data Management:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
 
-**Development Methodologies & Best Practices:**  
-`Agile (Scrum, TDD, BDD)` `DevOps` `CI/CD Pipelines` `Software Engineering Principles (SOLID, Design Patterns, Clean Code)`
+**Development Methodologies & Best Practices:** `Agile (Scrum, TDD, BDD)` `DevOps` `CI/CD Pipelines` `Software Engineering Principles (SOLID, Design Patterns, Clean Code)`
 
-**DevOps & Deployment:**  
-`Docker` `CI/CD Pipelines` `GitHub Actions` `Vercel`
+**DevOps & Deployment:** `Docker` `CI/CD Pipelines` `GitHub Actions` `Vercel`
 
-**Operating Systems:**  
-`Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
+**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
 
-**Computer Science Fundamentals:**  
-`Data Structures and Algorithms` `Object-Oriented Programming`
+**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
 
 ## ✨ Fun Facts
 
