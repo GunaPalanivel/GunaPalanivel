@@ -18,25 +18,38 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)`
+**Frontend Development:**  
+`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
 
-**Programming Languages:** `JavaScript` `Python` `TypeScript`
+**Programming Languages:**  
+`TypeScript` `JavaScript` `Python`
 
-**JavaScript Library & Frameworks:** `React` `Next.js` `AdminJS` `Bootstrap`
+**JavaScript Libraries & Frameworks:**  
+`React.js` `Next.js` `Angular` `Bootstrap` `Material-UI`
 
-**Backend Development:** `Node.js` `Sequelize`
+**Backend Development:**  
+`Node.js` `Express.js` `GraphQL`
 
-**Version Control:** `Git` `GitHub`
+**API Development & Integration:**  
+`REST APIs` `GraphQL` `Postman`
 
-**Databases:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
+**Version Control & Collaboration:**  
+`Git` `GitHub`
 
-**Software:** `Visual Studio Code` `MySQL Workbench` `MongoDB Compass` `Git Bash` `GitHub Desktop`
+**Databases & Data Management:**  
+`MySQL` `MongoDB` `PostgreSQL` `Redis`
 
-**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
+**Development Methodologies & Best Practices:**  
+`Agile (Scrum, TDD, BDD)` `DevOps` `CI/CD Pipelines` `Software Engineering Principles (SOLID, Design Patterns, Clean Code)`
 
-**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
+**DevOps & Deployment:**  
+`Docker` `CI/CD Pipelines` `GitHub Actions` `Vercel`
 
-**Tools and Platforms:** `Docker` `CI/CD Pipelines` `REST APIs` `Agile/Scrum`
+**Operating Systems:**  
+`Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
+
+**Computer Science Fundamentals:**  
+`Data Structures and Algorithms` `Object-Oriented Programming`
 
 ## ✨ Fun Facts
 
