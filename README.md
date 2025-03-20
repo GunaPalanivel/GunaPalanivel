@@ -42,7 +42,7 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## ✨ Fun Facts
 
-- 🎬 "The Pursuit of Happyness" is my favorite movie.
+- 🎬 "The Pursuit of Happyness" & "The Internship" is my favorite movie.
 - 🍿 I prefer Hollywood movies over Bollywood.
 - 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
 
