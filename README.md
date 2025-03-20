@@ -6,9 +6,9 @@
 
 ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
 
-I'm a 22-year-old developer based in India 🇮🇳, and I'm passionate about creating awesome software.
+I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
 
-- 🌟 As a [Beta member of Microsoft MLSA](https://mvp.microsoft.com/en-US/studentambassadors/profile/e9949081-2982-483b-97a7-c0a8baf88937), driving forward tech innovation.
+- 🌟 As a [Beta member of Microsoft MLSA](https://mvp.microsoft.com/en-US/studentambassadors/profile/e9949081-2982-483b-97a7-c0a8baf88937), Driving innovation and knowledge-sharing in tech communities.
 - 💻 Here's a [JavaScript code](https://github.com/GunaPalanivel/My-README.md-bio-In-Js) snippet that dynamically generates my GitHub README.md content.
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
@@ -42,7 +42,7 @@ I'm a 22-year-old developer based in India 🇮🇳, and I'm passionate about cr
 
 - 🎬 "The Pursuit of Happyness" is my favorite movie.
 - 🍿 I prefer Hollywood movies over Bollywood.
-- 🧠 I enjoy gaining knowledge from various sources, be it books, videos, or conversations.
+- 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
 
 ## 📫 Contact
 
