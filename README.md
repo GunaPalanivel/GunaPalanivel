@@ -4,7 +4,11 @@
 
 <hr>
 
-![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png)
+<div align="center">
+  <img src="https://i.ibb.co/mytnRrt/header.gif">
+</div>
+
+<!-- ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png) -->
 
 I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
 
