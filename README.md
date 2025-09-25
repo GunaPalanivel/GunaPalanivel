@@ -36,7 +36,7 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 **Databases & Data Management:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
 
-**Development Methodologies & Best Practices:** `Agile (Scrum, TDD, BDD)` `DevOps` `CI/CD Pipelines` `Software Engineering Principles (SOLID, Design Patterns, Clean Code)`
+**Development Methodologies & Best Practices:** `Agile/Scrum` `DevOps` `CI/CD Pipelines` `Software Engineering Principles`
 
 **DevOps & Deployment:** `Docker` `CI/CD Pipelines` `GitHub Actions` `Vercel`
 
