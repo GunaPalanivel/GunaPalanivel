@@ -17,7 +17,7 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
 - 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1aMt5kTtPSN2K3Ft9xEKGVVgWYqpTbjRh/view?usp=sharing).
-- 📚 Stay updated with my journey on [GitHub](https://github.com/GunaPalanivel) and [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
+- 📚 Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
 - ⚙️ Explore my [VS Code Configuration](https://github.com/GunaPalanivel/vs-code-settings) for development optimization.
 
 ## 📦 Toolbox
