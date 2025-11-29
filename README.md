@@ -22,9 +22,9 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
-
 **Programming Languages:** `Java` `TypeScript` `JavaScript` `Python`
+
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
 
 **JavaScript Libraries & Frameworks:** `React.js` `Next.js` `Angular` `Bootstrap` `Material-UI`
 
