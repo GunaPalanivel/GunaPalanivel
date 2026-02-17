@@ -37,13 +37,7 @@ I'm a Software Development Engineer based in India 🇮🇳, building production
 
 **Frontend Development:** `React` `Next.js` `Tailwind CSS`
 
-**JavaScript Libraries & Frameworks:** `React.js` `Next.js` `Angular` `Bootstrap` `Material-UI`
-
 **API Development & Integration:** `RESTful APIs` `GraphQL` `Postman`
-
-**Version Control & Collaboration:** `Git` `GitHub`
-
-**Development Methodologies & Best Practices:** `Agile/Scrum` `DevOps` `CI/CD Pipelines` `Software Engineering Principles`
 
 **DevOps & Deployment:** `Docker` `Kubernetes` `CI/CD Pipelines` `GitHub Actions`
 
