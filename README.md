@@ -10,7 +10,7 @@
 
 <!-- ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png) -->
 
-I'm a Software Development Engineer based in India 🇮🇳, building production systems that handle real scale. Microsoft MLSA Beta.
+AI Infrastructure & Platform Engineer. Currently at L&T Technology Services on the Intel AI Infrastructure account — GPU orchestration on OpenShift/Kubernetes for Intel's AI serving stack.
 
 - 🌟 As a [Beta member of Microsoft MLSA](https://mvp.microsoft.com/en-US/studentambassadors/profile/e9949081-2982-483b-97a7-c0a8baf88937), Driving innovation and knowledge-sharing in tech communities.
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
