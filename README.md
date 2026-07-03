@@ -27,27 +27,21 @@ AI Infrastructure & Platform Engineer. Currently at L&T Technology Services on t
 
 ## 📦 Toolbox
 
-**Programming Languages:** `Java` `Python` `TypeScript` `JavaScript` `SQL`
+**Languages:** `Python` `Java` `TypeScript` `SQL` 
 
-**Backend Development:** `Spring Boot` `FastAPI` `Node.js` `Microservices` `AWS` `Docker` `Kubernetes`
+**AI & ML** `Haystack` `FAISS` `TRL` `GRPO` `Unsloth` `Hugging Face` `LLM Fine-tuning` `RAG` `PyTorch` `Metaflow`
 
-**Databases & Data Management:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
+**Infrastructure** `Kubernetes` `OpenShift` `GPU Orchestration` `Docker` `AWS` `Terraform` `Kustomize` `GitHub Actions`
 
-**Artificial Intelligence & Machine Learning** `LLM/RAG` `Haystack AI` `ML Pipelines` `ETL`
+**Backend & APIs** `Spring Boot` `FastAPI` `Spring Cloud` `GraphQL` `WebSockets` `Pydantic` `Microservices`
 
-**Frontend Development:** `React` `Next.js` `Tailwind CSS`
+**Data & Vector Search** `Elasticsearch` `OpenSearch` `Milvus` `FAISS` `PostgreSQL` `MySQL` `Redis`
 
-**API Development & Integration:** `RESTful APIs` `GraphQL` `Postman`
-
-**DevOps & Deployment:** `Docker` `Kubernetes` `CI/CD Pipelines` `GitHub Actions`
-
-**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
-
-**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming` `DBMS` `System Design`
+**Observability** `Micrometer` `Resilience4j` `CloudWatch` `Spring Actuator`
 
 ## ✨ Fun Facts
 
-- 🎬 "The Pursuit of Happyness" & "The Internship" is my favorite movie.
+- 🎬 **"The Pursuit of Happyness"** & **"The Internship"** is my favorite movie.
 - 🍿 I prefer Hollywood movies over Bollywood.
 - 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
 
