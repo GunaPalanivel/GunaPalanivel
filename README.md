@@ -10,9 +10,8 @@
 
 <!-- ![Banner](https://github.com/GunaPalanivel/GunaPalanivel/raw/main/assets/banner.png) -->
 
-AI Infrastructure & Platform Engineer. Currently at L&T Technology Services on the Intel AI Infrastructure account — GPU orchestration on OpenShift/Kubernetes for Intel's AI serving stack.
+  AI Infrastructure & Platform Engineer. Currently at L&T Technology Services on the Intel AI Infrastructure account — GPU orchestration on OpenShift/Kubernetes for Intel's AI serving stack.
 
-- 🌟 As a [Beta member of Microsoft MLSA](https://mvp.microsoft.com/en-US/studentambassadors/profile/e9949081-2982-483b-97a7-c0a8baf88937), Driving innovation and knowledge-sharing in tech communities.
 - 🌐 Check out my [website](https://gunaprofile.pages.dev/) to learn more about me.
 - 🔗 Explore my [Links](https://gunalinks.pages.dev/) to find me on various platforms.
 - 📚 Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/).
@@ -43,7 +42,7 @@ AI Infrastructure & Platform Engineer. Currently at L&T Technology Services on t
 
 - 🎬 **"The Pursuit of Happyness"** & **"The Internship"** is my favorite movie.
 - 🍿 I prefer Hollywood movies over Bollywood.
-- 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
+- 🧠 I enjoy *absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.*
 
 ## 📫 Contact
 
